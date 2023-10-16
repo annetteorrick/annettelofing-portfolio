@@ -30,7 +30,7 @@ url: "https://annettelofing.github.io/" # the base hostname & protocol for your 
 github_username:  annettelofing
 
 # Build settings
-theme: minima
+theme: cayman
 plugins:
   - jekyll-feed
 
