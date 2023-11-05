@@ -5,7 +5,7 @@ date:   2022-10-30 14:21:39 -0500
 categories: UX Project
 ---
 
-![Featured Mobile Mockup Design](/assets/images/Mobile-Mockup-Splash-Brown2.png)
+![Featured Mobile Mockup Design](_site/assets/images/Mobile-Mockup-Splash-Brown2.png)
 
 
 ## Coffee Shop App Design
