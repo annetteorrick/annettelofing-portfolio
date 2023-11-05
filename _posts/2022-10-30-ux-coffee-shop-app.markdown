@@ -7,6 +7,8 @@ categories: UX Project
 
 ![Featured Mobile Mockup Design](/assets/images/Mobile-Mockup-Splash-Brown2.png)
 
+<!-- "C:\Users\annet\Documents\Github Repos\annettelofing.github.io\assets\images\Mobile-Mockup-Splash-Brown2.png"
+--> 
 
 ## Coffee Shop App Design
 ### App Design + Iterative User Research 
