@@ -4,3 +4,4 @@
 
 layout: home
 ---
+<h2 class="post-list-heading">Projects</h2>
