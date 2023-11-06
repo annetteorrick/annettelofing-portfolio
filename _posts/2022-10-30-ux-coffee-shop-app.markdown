@@ -20,3 +20,4 @@ categories: UX Project
 ### Team: Self-Directed 
 ### Platform: Figma
 
+![Coffee Mug](/assets/images/nolan-issac-It0DCaCBr40-unsplash.jpg)
